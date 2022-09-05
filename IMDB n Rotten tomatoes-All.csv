@@ -1,0 +1,163 @@
+Name,IMDB,Rotten Tomatoes,Genre,No. of Seasons
+Gotham,7.8,77%,Action,5
+Vikings,8.5,93%,Action,6
+GoT,9.2,97%,Action,8
+Money Heist,8.2,93%,Action,5
+Daredevil,8.6,92%,Action,3
+The Witcher,8.2,81%,Action,2
+The Wheel of Time,7.3,82%,Action,1
+Cobra Kai,8.6,95%,Action,4
+Squid Game,8.2,94%,Action,1
+Prison Break,8.3,60%,Action,5
+Utopia,	8.4,100%,Sci-fi,1
+Dark,8.8,95%,Sci-fi,3
+Black Mirror,8.8,84%,Sci-fi,5
+Sense8,8.3,86%,Sci-fi,2
+The 100,7.6,93%,Sci-fi,7
+Altered Carbon,8.0,75%,Sci-fi,2
+Stranger Things,8.7,93%,Sci-fi,3
+Star Trek: The Original	Series,8.3,80%,Sci-fi,3
+Dark Matter,7.5,89%,Sci-fi,3
+Travelers,8.1,100%,Sci-fi,3
+Vikings,8.5,93%,Adventure,6
+The Witcher,8.2,81%,Adventure,2
+The Wheel of Time,7.3,82%,Adventure,1
+Arrow,7.5,86%,Adventure,8
+Smallville,7.5,78%,Adventure,10
+Battlestar Galactica,8.7,95%,Adventure,4
+GoT,9.2,97%,Adventure,8
+The Umbrella Academy,8.0,83%,Adventure,2
+Lost in Space,7.3,84%,Adventure,3
+Friends,8.8,82%,Rom-Com,10
+The Big Bang Theory,8.1,92%,Rom-Com,12
+Emily in Paris,7.0,65%,Rom-Com,2
+Modern Family,8.4,89%,Rom-Com,11
+Insecure,7.9,97%,Rom-Com,5
+How I Met Your Mother,8.3,78%,Rom-Com,9
+Love Life,7.5,79%,Rom-Com,2
+Dash & Lily,7.5,100%,Rom-Com,1
+Love,7.6,94%,Rom-Com,3
+Little Things,8.3,45%,Rom-Com,4
+Gotham,7.8,77%,Drama,5
+Utopia,8.4,100%,Drama,1
+Stranger Things,8.7,93%,Drama,3
+Dark,8.8,95%,Drama,3
+Walking Dead,8.2,79%,Drama,11
+Breaking Bad,9.4,91%,Drama,5
+Lucifer,8.1,77%,Drama,6
+Narcos,8.8,89%,Drama,3
+TVD,7.7,86%,Drama,8
+Vikings,8.5,93%,Drama,6
+GoT,9.2,97%,Drama,8
+Money Heist,8.2,93%,Drama,5
+Peaky Blinders,8.8,92%,Drama,6
+Stranger Things,8.7,93%,Horror,3
+Walking Dead,8.2,79%,Horror,11
+TVD,7.7,92%,Horror,8
+Supernatural,8.4,93%,Horror,15
+The Originals,8.2,84%,Horror,5
+Hannibal,8.5,92%,Horror,3
+Grimm,7.8,89%,Horror,6
+The Strain,7.3,79%,Horror,4
+Scream : The TV Series,7.1,61%,Horror,2	
+The Order,6.8,100%,Horror,2
+Dark,8.8,95%,Crime,3
+Breaking Bad,9.4,91%,Crime,5
+Lucifer,8.1,77%,Crime,6
+Narcos,8.8,89%,Crime,3
+Money Heist,8.2,93%,Crime,5
+Peaky Blinders,8.8,92%,Crime,6
+Daredevil,8.6,92%,Crime,3
+Prison Break,8.3,60%,Crime,5
+The X-Files,8.6,75%,Crime,11
+Jessica Jones,7.9,83%,Crime,3
+Breaking Bad,9.4,91%,Thriller,5
+Walking Dead,8.2,79%,Thriller,11
+The Man in the High Castle,8.0,84%,Thriller,4
+Money Heist,8.2,93%,Thriller,5
+The Sinner,7.9,88%,Thriller,3
+You,7.7,91%,Thriller,3
+Stranger Things,8.7,93%,Thriller,3
+Criminal Minds,8.1,46%,Thriller,15
+Black Mirror,8.8,84%,Thriller,5
+Sherlock,9.1,78%,Thriller,4
+Inception,8.8,87%,Action,
+The Matrix,8.7,88%,Action,
+Jurassic Park,8.1,92%,Action,
+Furious 7,7.1,82%,Action,
+Avengers: Endgame,8.4,94%,Action,
+Avengers: Infinity War,8.4,82%,Action,
+The Dark Knight,9.0,94%,Action,
+Logan,8.1,94%,Action,
+Tenet,7.4,69%,Action,
+Mission Impossible: Fallout,7.7,97%,Action,
+Inception,8.8,87%,Sci-fi,
+The Matrix,8.7,88%,Sci-fi,
+Interstellar,8.6,72%,Sci-fi,
+Jurassic Park,8.1,92%,Sci-fi,
+The Martian,8.0,91%,Sci-fi,
+The Terminator,8.0,100%,Sci-fi,
+The Invisible Man,7.1,92%,Sci-fi,
+Nettle,8.3,72%,Sci-fi,
+Tenet,7.4,69%,Sci-fi,
+Blade Runner,8.1,89%,Sci-fi,
+Interstellar,8.6,72%,Adventure,
+Inception,8.8,87%,Adventure,
+Jurassic Park,8.1,92%,Adventure,
+The Martian,8.0,91%,Adventure,
+Avengers: Endgame,8.4,94%,Adventure,
+Avengers: Infinity War,8.4,82%,Adventure,
+Wall-E,8.4,95%,Adventure,
+Back to the Future,8.5,96%,Adventure,
+Harry Potter,7.6,84%,Adventure,
+Logan,8.1,94%,Adventure,
+Parasite,8.6,98%,Rom-Com,
+Licorice Pizza,8.1,92%,Rom-Com,
+Love Actually,7.6,72%,Rom-Com,
+The French Dispatch,7.4,75%,Rom-Com,
+When Harry Met Sally,7.6,91%,Rom-Com,
+Pretty Woman,7.1,64%,Rom-Com,
+Notting Hill,7.1,83%,Rom-Com,
+Sleepless in Seattle,6.8,75%,Rom-Com,
+Moonstruck,7.1,94%,Rom-Com,
+Titanic,7.8,89%,Rom-Com,
+Interstellar,8.6,72%,Drama,
+The Martian,8.0,91%,Drama,
+Knives Out,7.9,97%,Drama,
+The Godfather,9.2,97%,Drama,
+Moonlight,7.4,98%,Drama,
+A Star is Born,7.6,90%,Drama,
+A Quiet Place,7.5,96%,Drama,
+Arrival,7.9,94%,Drama,
+The Favourite,7.5,93%,Drama,
+The Shape of Water,7.3,92%,Drama,
+Conjuring 1,7.5,86%,Horror,
+Conjuring 2,7.3,80%,Horror,
+The Invisible Man,7.1,92%,Horror,
+The Exorcist,8.0,83%,Horror,
+Jaws,8.0,98%,Horror,
+Silence of the Lambs,8.6,96%,Horror,
+The Evil Dead,7.5,95%,Horror,
+Saw,7.6,51%,Horror,
+Host,7.1,93%,Horror,
+Nightmare on Elm Street,7.5,95%,Horror,
+The Dark Knight,9.0,94%,Crime,
+The Godfather,9.0,97%,Crime,
+The Godfather II,9.2,96%,Crime,
+Joker,8.4,68%,Crime,
+The Unforgivable,7.2,37%,Crime,
+West Side Story,7.8,93%,Crime,
+Nightmare Alley,7.4,80%,Crime,
+Knives Out,7.9,97%,Crime,
+Wind River,7.7,87%,Crime,
+John Wick,7.4,86%,Crime,
+Furious 7,7.2,82%,Thriller,
+Parasite,8.6,98%,Thriller,
+The Departed,8.5,96%,Thriller,
+Joker,8.4,68%,Thriller,
+The Sixth Sense,8.1,86%,Thriller,
+Shutter Island,8.2,68%,Thriller,
+The Departed,8.5,96%,Thriller,
+The Prestige,8.5,76%,Thriller,
+Tenet,7.4,69%,Thriller,
+Prisoners,8.1,81%,Thriller,
